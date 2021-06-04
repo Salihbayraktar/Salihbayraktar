@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[HyperSkill](https://hyperskill.org/profile/94207858)
+
+[CodeWars](https://www.codewars.com/users/Salihbayraktar)
+
 <!--
 **Salihbayraktar/Salihbayraktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
