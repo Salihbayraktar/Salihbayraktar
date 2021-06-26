@@ -4,7 +4,7 @@
 
       -[My HyperSkill Projects](https://github.com/Salihbayraktar/JetBrains-Academy/tree/main/src)
       
-[PatikaJava](https://github.com/Salihbayraktar/Patika-Java)
+[PatikaJava](https://github.com/Salihbayraktar/Patika-Java/tree/main/src)
 
 [CodeWars](https://www.codewars.com/users/Salihbayraktar)
 
