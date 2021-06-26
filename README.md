@@ -3,6 +3,8 @@
 [HyperSkill](https://hyperskill.org/profile/94207858)
 
       -[My HyperSkill Projects](https://github.com/Salihbayraktar/JetBrains-Academy/tree/main/src)
+      
+[Patika - Java] (https://github.com/Salihbayraktar/Patika-Java)
 
 [CodeWars](https://www.codewars.com/users/Salihbayraktar)
 
