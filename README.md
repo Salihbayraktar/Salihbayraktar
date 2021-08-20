@@ -6,6 +6,8 @@
       
 [PatikaJava](https://github.com/Salihbayraktar/Patika-Java/tree/main/src)
 
+[PatikaPython](https://github.com/Salihbayraktar/Patika-Python)
+
 [CodeWars](https://www.codewars.com/users/Salihbayraktar)
 
 
